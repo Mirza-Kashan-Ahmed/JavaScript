@@ -3,7 +3,6 @@ let accountDetail = "kashan ahmed"
 const username = 1
 
 accountname = 3
-
 console.log(accountname);
 console.log(accountDetail);
 console.log(username);
